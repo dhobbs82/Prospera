@@ -26,7 +26,7 @@ PYTHONPATH=src python3 src/main.py
 
 From the root directory:
 ```
-PYTHONPATH=src python3 src/main.py
+PYTHONPATH=src pytest -v
 ```
 
 ## Formatting
