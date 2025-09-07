@@ -29,11 +29,11 @@ From the root directory:
 PYTHONPATH=src python3 src/main.py
 ```
 
-## Linting
+## Formatting
 
 From the root directory:
 ```
 PYTHONPATH=src pylint src/
 ```
 ```
-PYTHONPATH=src pyling tests/
+PYTHONPATH=src pylint tests/
