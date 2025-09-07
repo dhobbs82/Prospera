@@ -1,6 +1,6 @@
 # Snake Game
 
-Classic Snake game written in Python using the `turtle` module. ![Snake Logo](images/logo.gif)
+Classic Snake game written in Python using the `turtle` module. ![Snake Logo](images/witcher_logo.gif)
 
 ## Requirements
 
